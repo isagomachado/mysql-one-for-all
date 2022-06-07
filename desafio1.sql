@@ -66,7 +66,7 @@ VALUES
     
 INSERT INTO SpotifyClone.plan (plan_name, value_plan)
 VALUES
-	('Gratuito', 0),
+	('Gratuito', 0.00),
     ('Familiar', 7.99),
     ('Universitario', 5.99),
     ('Pessoal', 6.99);
