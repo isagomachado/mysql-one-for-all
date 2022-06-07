@@ -125,7 +125,7 @@ VALUES
     ("Walking And Game", 4, 6, 123),
     ("Young And Father", 4, 6, 197),
     ("Finding My Traditions", 5, 7, 179),
-    ("Walking And Man", 5, 7, 119),
+    ("Walking And Man", 5, 7, 229),
     ("Hard And Time", 5, 7, 135),
     ("Honey, I'm A Lone Wolf", 5, 7, 150),
     ("She Thinks I Won't Stay Tonight", 5, 8, 166),
