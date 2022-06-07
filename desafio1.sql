@@ -97,7 +97,7 @@ VALUES
     ('No guarantees', 5, '2015'),
     ('Apparatus', 6, '2015');
     
-INSERT INTO SpotifyClone.music (music_name, artist_id, album_id, seconds)
+INSERT INTO SpotifyClone.music (music_name, album_id, seconds)
 VALUES
 	("Soul For Us", 1, 200),
     ("Reflections Of Magic", 1, 163),
